@@ -5,7 +5,7 @@
           
           <div class="flex mb-5 pb-5 border-b items-center">
             <img class="w-10 h-10 mr-4" src="./logo.png" alt="Logo" />
-            <h2 class="text-lg font-bold">Squicle Creator</h2>
+            <h2 class="text-lg font-bold">Squircle Creator</h2>
           </div>
           
           <div class="w-full mb-5 flex items-center">
