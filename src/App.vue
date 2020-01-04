@@ -97,6 +97,10 @@ div {
   clip-path: ${this.clipPath};
 }`;
     },
+    
+    //
+    // source: https://medium.com/@zubryjs/squircles-bringing-ios-7s-solution-to-rounded-rectangles-to-css-9fc35779aa65
+    //
     clipPath(){
       let width = this.w;
       let height = this.h;
